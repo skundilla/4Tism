@@ -1,0 +1,16 @@
+Activation.mp3
+DrawCard.mp3
+Frot.mp3
+Highlight.mp3
+IllegalMove.mp3
+LoseFour.mp3
+MenuConfirm.mp3
+MenuSelect.mp3
+PlayedCard.mp3
+Poke.mp3
+README.md
+SizeUp.mp3
+Step.mp3
+TurdEntersBoard.mp3
+full-inventory.mp3
+playerturnend.mp3
